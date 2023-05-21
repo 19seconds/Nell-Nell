@@ -125,15 +125,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
+    "Nell Nell/test.md",
+    "Nell Nell/新建 Markdown.md",
     "【本周更新】/加分项.md",
     "【本周更新】/母系社会.md",
     "【本周更新】/万玛才旦.md",
@@ -157,8 +159,6 @@
     "沙海拾金/补强.md",
     "沙海拾金/谎言.md",
     "沙海拾金/爱是行动.md",
-    "沙海拾金/政治正确与约定俗成.md",
-    "沙海拾金/没用.md",
-    "沙海拾金/正邪之分.md"
+    "沙海拾金/政治正确与约定俗成.md"
   ]
 }
