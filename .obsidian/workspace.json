@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "45fe2cd549ca716f",
+        "id": "5135820d06ffa77c",
         "type": "tabs",
         "children": [
           {
-            "id": "4e0dd60dcdebafed",
+            "id": "abc0c8116e21eeef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/卷.md",
+                "file": "Nell Nell/05 - 圣经 & 神学/影子大地.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffd706bc4c88911a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c0e98c28be19d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nell Nell/05 - 圣经 & 神学/Bible女性系列/Bible女性系列1 ——路得.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,7 +59,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,12 +69,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "个说法并不准",
+                "query": "黑豹",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "byModifiedTime"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -66,10 +87,18 @@
             }
           },
           {
-            "id": "014b30d9b0030456",
+            "id": "7e0d52c886465882",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9aecab9269813220",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -77,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 578.5
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "3283e38a99c06233",
@@ -93,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【本周更新】/卷.md",
+                "file": "Nell Nell/05 - 圣经 & 神学/Bible女性系列/Bible女性系列1 ——路得.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +144,25 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "bbefff196e46feee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e439d3a201ec91e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -125,40 +174,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false
     }
   },
-  "active": "4e0dd60dcdebafed",
+  "active": "78adbaa0ce0f4f74",
   "lastOpenFiles": [
-    "【本周更新】/《瓦尔登湖》.md",
-    "【本周更新】/痴儿女.md",
-    "【本周更新】/哪吒.md",
-    "【本周更新】/卷.md",
-    "沙海拾金/爱与信心.md",
-    "沙海拾金/独立调查.md",
-    "Nell Nell/02 - “怎么办”系列/处世强健.md",
-    "Nell Nell/03 - “如何看待”系列/殖民心理.md",
-    "Nell Nell/02 - “怎么办”系列/爱人到朋友.md",
-    "Nell Nell/02 - “怎么办”系列/亏欠.md",
-    "Nell Nell/02 - “怎么办”系列/异性交流.md",
-    "Nell Nell/01 - “是什么”系列/脱口秀艺术.md",
-    "Nell Nell/02 - “怎么办”系列/吹蜡烛.md",
-    "【本周更新】/母系社会.md",
-    "Nell Nell/01 - “是什么”系列/母系社会.md",
-    "【本周更新】/脱口秀艺术.md",
-    "沙海拾金/不必紧张.md",
-    "沙海拾金/原谅与免责.md",
-    "【本周更新】/吹蜡烛.md",
-    "Nell Nell/06 - 书评 & 影评/万玛才旦.md",
-    "Nell Nell/02 - “怎么办”系列/加分项.md",
-    "Nell Nell/03 - “如何看待”系列/信心问题.md",
-    "【本周更新】/发疯.md",
-    "Nell Nell/03 - “如何看待”系列/性骚扰.md",
-    "Nell Nell/01 - “是什么”系列/表白.md",
-    "Nell Nell/03 - “如何看待”系列/Porn.md"
+    "Nell Nell/05 - 圣经 & 神学/Bible女性系列/Bible女性系列6——拔示巴.md",
+    "Nell Nell/05 - 圣经 & 神学/Bible女性系列/Bible女性系列1 ——路得.md",
+    "Nell Nell/05 - 圣经 & 神学/Bible女性系列/Bible女性系列8——夏娃篇.md",
+    "此片是黑豹最好的谢幕.md",
+    "Nell Nell/05 - 圣经 & 神学/Bible女性系列",
+    "Nell Nell/06 - 书评 & 影评/《誓血五人组》.md",
+    "Nell Nell/05 - 圣经 & 神学/影子大地.md",
+    "00 模板/01 公众号文章模板.md",
+    "Nell Nell/05 - 圣经 & 神学/基督徒.md",
+    "00 模板",
+    "Nell Nell/05 - 圣经 & 神学/战胜抑郁.md",
+    "Nell Nell/05 - 圣经 & 神学/至极浪漫.md",
+    "Nell Nell/05 - 圣经 & 神学/高举圣经.md",
+    "Nell Nell/05 - 圣经 & 神学/《圣经》vs. 历史.md",
+    "Nell Nell/05 - 圣经 & 神学/读《圣经》.md",
+    "Nell Nell/05 - 圣经 & 神学/Bible女性系列/Bible女性系列2 —— 她玛.md",
+    "Nell Nell/05 - 圣经 & 神学/神灵的人格化.md",
+    "Nell Nell/05 - 圣经 & 神学/神话禁忌.md",
+    "Nell Nell/05 - 圣经 & 神学/神的荣耀.md",
+    "Nell Nell/05 - 圣经 & 神学/上帝 - 造人.md",
+    "Nell Nell/05 - 圣经 & 神学/上帝 - 试探.md",
+    "Nell Nell/05 - 圣经 & 神学/上帝 - 时间.md",
+    "Nell Nell/05 - 圣经 & 神学/上帝 - 杀人.md",
+    "Nell Nell/05 - 圣经 & 神学/培养信教.md",
+    "Nell Nell/05 - 圣经 & 神学/福音.md",
+    "Nell Nell/05 - 圣经 & 神学/打喷嚏.md",
+    "Nell Nell/05 - 圣经 & 神学/必得安慰.md",
+    "Nell Nell/03 - “如何看待”系列/自由意志.md"
   ]
 }
